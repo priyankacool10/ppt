@@ -1,0 +1,26 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{e-Notice App}{10}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introduction}{10}{0}{1}
+\beamer@sectionintoc {2}{Design of Project}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{Use Case Diagram for User}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{Use Case Diagram for Admin}{13}{0}{2}
+\beamer@subsectionintoc {2}{3}{Detailed Design}{14}{0}{2}
+\beamer@subsectionintoc {2}{4}{e-Notice App Design}{15}{0}{2}
+\beamer@sectionintoc {3}{Project Modules}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{User Interface}{22}{0}{3}
+\beamer@subsectionintoc {3}{2}{Communication With Web Server}{28}{0}{3}
+\beamer@subsectionintoc {3}{3}{JSON Parsing}{29}{0}{3}
+\beamer@subsectionintoc {3}{4}{Services and Broadcast Receivers}{30}{0}{3}
+\beamer@subsectionintoc {3}{5}{GCM Notifications}{33}{0}{3}
+\beamer@sectionintoc {4}{Technologies Used}{42}{0}{4}
+\beamer@subsectionintoc {4}{1}{XML}{48}{0}{4}
+\beamer@subsectionintoc {4}{2}{Java}{49}{0}{4}
+\beamer@subsectionintoc {4}{3}{PHP}{50}{0}{4}
+\beamer@subsectionintoc {4}{4}{SQLite}{51}{0}{4}
+\beamer@subsectionintoc {4}{5}{MySQL}{52}{0}{4}
+\beamer@sectionintoc {5}{System Requirements}{53}{0}{5}
+\beamer@subsectionintoc {5}{1}{Software Requirements}{53}{0}{5}
+\beamer@subsectionintoc {5}{2}{Hardware Requirements}{54}{0}{5}
+\beamer@sectionintoc {6}{Features of Project}{55}{0}{6}
+\beamer@sectionintoc {7}{Future Scope Of Project}{61}{0}{7}
+\beamer@sectionintoc {8}{Conclusion}{62}{0}{8}

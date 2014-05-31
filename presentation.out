@@ -1,0 +1,25 @@
+\BOOKMARK [2][]{Outline0.1}{e-Notice App}{}% 1
+\BOOKMARK [3][]{Outline0.1.1.10}{Introduction}{Outline0.1}% 2
+\BOOKMARK [2][]{Outline0.2}{Design of Project}{}% 3
+\BOOKMARK [3][]{Outline0.2.1.12}{Use Case Diagram for User}{Outline0.2}% 4
+\BOOKMARK [3][]{Outline0.2.2.13}{Use Case Diagram for Admin}{Outline0.2}% 5
+\BOOKMARK [3][]{Outline0.2.3.14}{Detailed Design}{Outline0.2}% 6
+\BOOKMARK [3][]{Outline0.2.4.15}{e-Notice App Design}{Outline0.2}% 7
+\BOOKMARK [2][]{Outline0.3}{Project Modules}{}% 8
+\BOOKMARK [3][]{Outline0.3.1.22}{User Interface}{Outline0.3}% 9
+\BOOKMARK [3][]{Outline0.3.2.28}{Communication With Web Server}{Outline0.3}% 10
+\BOOKMARK [3][]{Outline0.3.3.29}{JSON Parsing}{Outline0.3}% 11
+\BOOKMARK [3][]{Outline0.3.4.30}{Services and Broadcast Receivers}{Outline0.3}% 12
+\BOOKMARK [3][]{Outline0.3.5.33}{GCM Notifications}{Outline0.3}% 13
+\BOOKMARK [2][]{Outline0.4}{Technologies Used}{}% 14
+\BOOKMARK [3][]{Outline0.4.1.48}{XML}{Outline0.4}% 15
+\BOOKMARK [3][]{Outline0.4.2.49}{Java}{Outline0.4}% 16
+\BOOKMARK [3][]{Outline0.4.3.50}{PHP}{Outline0.4}% 17
+\BOOKMARK [3][]{Outline0.4.4.51}{SQLite}{Outline0.4}% 18
+\BOOKMARK [3][]{Outline0.4.5.52}{MySQL}{Outline0.4}% 19
+\BOOKMARK [2][]{Outline0.5}{System Requirements}{}% 20
+\BOOKMARK [3][]{Outline0.5.1.53}{Software Requirements}{Outline0.5}% 21
+\BOOKMARK [3][]{Outline0.5.2.54}{Hardware Requirements}{Outline0.5}% 22
+\BOOKMARK [2][]{Outline0.6}{Features of Project}{}% 23
+\BOOKMARK [2][]{Outline0.7}{Future Scope Of Project}{}% 24
+\BOOKMARK [2][]{Outline0.8}{Conclusion}{}% 25
